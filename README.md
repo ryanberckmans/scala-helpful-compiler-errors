@@ -3,11 +3,11 @@
 
 A list of Scala compiler errors that could be more helpful, especially for newcomers to Scala.
 
-The list is focused on Scala 3's Dotty compiler. One day this list could be used to help a [larger project](https://contributors.scala-lang.org/t/towards-better-error-messages-in-scalac/1470/31) around compiler errors. Such a project seems unlikely to occur for Scala 2.13's scalac, which is why this list is Dotty-specific.
+The list is focused on Scala 3's Dotty compiler. One day this list could be useful for a [larger project](https://contributors.scala-lang.org/t/towards-better-error-messages-in-scalac/1470/31) around compiler errors. Such a project seems unlikely to occur for Scala 2.13's scalac, which is why this list is Dotty-specific.
 
 ## Pull requests welcome
 
-Please submit pull requests with Dotty errors that could be more helpful, especially for newcomers to Scala.
+🛠️ Help by submitting pull requests with Dotty errors that could be more helpful, especially for newcomers to Scala.
 
 Use this template:
 
