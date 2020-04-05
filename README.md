@@ -31,3 +31,4 @@ Found:    Unit
 Required: Int
 ```
 * Example helpful msg: `The result type of this if statement must be an Int, but there's no else branch, so it returns Unit on else. Suggestion: add an else branch`
+* Fixed by https://github.com/lampepfl/dotty/pull/8672
